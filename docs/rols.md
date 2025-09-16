@@ -8,5 +8,5 @@
 ## Developer
 - Responsable de desarrollar el producto.
 - Colabora en la estimación de tareas y la planificación.
-- Se encarga de garantizar la calidad técnica del trabajo.
+- Se encarga de garantizar la calidad técnica del trabajo. 
 
